@@ -15,7 +15,7 @@ This repository contains my lecture notes, code, and additional resources relate
 
 Feel free to explore the directories and files. Each module folder contains:
 
-* Jupyter Notebooks (`.ipynb`) with code markdown notes and examples and experiments.
+* Jupyter Notebooks (`.ipynb`) with code markdown notes, examples and experiments.
 
 ---
 
